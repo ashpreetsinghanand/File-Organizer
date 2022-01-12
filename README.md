@@ -18,17 +18,17 @@ This command will show all the list of commands that has been implemented.
 
   
 
-## Requirements
-  ### node
-  npm module --> chalk
-  to install it type/copy in cmd or teminal
-     ```npm install chalk```
 
-then in this directory run
-     ```npm link```
-## Demo video Link 
-
-<a href = "https://screenrec.com/share/aA1sShemWq">Click here for video</a>
+  ### Libraries Required/Installed - 
+  1) path   - no need to install
+  2) fs     - no need to install
+  3) chalk  - to install it type/copy in cmd or teminal
+  ```npm install chalk```    <a herf = "https://www.npmjs.com/package/chalk">Refer</a>
+  4) module - then in this directory run
+  ```npm link```             <a herf = "https://www.npmjs.com/package/link">Refer</a>
+## Video 
+                
+<a href = "https://screenrec.com/share/aA1sShemWq">Click here to see demo</a>
 
 ### Project Explaination - 
 1. <p>Visit the news website as per the category input given by the user(Eg: Politics, Entertainment,etc.)</p>
