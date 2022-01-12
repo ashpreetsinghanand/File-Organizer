@@ -55,6 +55,6 @@ git clone https://github.com/ashpreetsinghanand/File-Organizer.git
    <img src ="Project/s6.png" width =600 height =400>
    <br>Here is pic of archieves folder
 6. At last type peppy tree command again to beautiful organized tree structure of folder
-   <img src ="Project/s2.png" width =600 height =400>
+   <img src ="Project/ss3.png" width =600 height =400>
 
     
