@@ -13,7 +13,22 @@ This command will organize your files into suitable folder as per their file typ
 
 ## 3. help
 This command will show all the list of commands that has been implemented.
-<a href = "https://screenrec.com/share/aA1sShemWq">Demo</a>
+
+ ## Commands
+
+  
+
+## Requirements
+  ### node
+  npm module --> chalk
+  to install it type/copy in cmd or teminal
+     ```npm install chalk```
+
+then in this directory run
+     ```npm link```
+## Demo video Link 
+
+<a href = "https://screenrec.com/share/aA1sShemWq">Click here for video</a>
 
 ### Project Explaination - 
 1. <p>Visit the news website as per the category input given by the user(Eg: Politics, Entertainment,etc.)</p>
