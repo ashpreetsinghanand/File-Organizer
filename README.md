@@ -14,4 +14,6 @@ Visualize all the directories and files inside them in a tree structure.
    <p>Input : node app.js Politics</p>
    <p>(If you don't mention the category it will combination news....)</p><br>
   
-   <img src = "Project/s1.png" width = 700 height = 500><br><br>### Project Explaination - 
+   <img src = "Project/s1.png" width = 200 height = 200><br><br>### Project Explaination - 
+
+    <video src = "Project/file organizer.mp4" width = 200 height = 200 type="video/mp4"><br><br>### Project Explaination - </video>
