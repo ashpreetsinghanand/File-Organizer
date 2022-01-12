@@ -1,12 +1,19 @@
 # 📁File Organizer
 
-Organize your messy folders into a systematic manner.
-Visualize all the directories and files inside them in a tree structure.
+# File-Organizer
+This is file organizer made through node js.
+There are some commands that you need to use for this project.
 
-### Installation
+Just simply type node main.js command(tree, organise, help)
 
-[`npm i fileorganizer --save`](https://www.npmjs.com/package/fileorganizerary) or clone it from here after forking.
+## 1. tree
+This command will display your folder and file as tree structure.
 
+## 2. organize
+This command will organize your files into suitable folder as per their file type belongs to.
+
+## 3. help
+This command will show all the list of commands that has been implemented.
 <a href = "https://screenrec.com/share/aA1sShemWq">Demo</a>
 
 ### Project Explaination - 
