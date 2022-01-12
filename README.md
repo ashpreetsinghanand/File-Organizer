@@ -1,2 +1,9 @@
-# File-Organizer
-An NPM Package to organize messy folders and can visualize directory in a tree structure 
+# 📁File Organizer
+
+Organize your messy folders into a systematic manner.
+Visualize all the directories and files inside them in a tree structure.
+
+### Installation
+
+[`npm i fileorganizer --save`](https://www.npmjs.com/package/fileorganizerary) or clone it from here after forking.
+
