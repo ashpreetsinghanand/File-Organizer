@@ -14,21 +14,21 @@ This command will organize your files into suitable folder as per their file typ
 ## 3. help
 This command will show all the list of commands that has been implemented.
 
- ## Commands
 
-  
-
-
-  ### Libraries Required/Installed - 
+  ## Libraries Required/Installed - 
   1) path   - no need to install
   2) fs     - no need to install
   3) chalk  - to install it type/copy in cmd or teminal
-  ```npm install chalk```    <a herf = "https://www.npmjs.com/package/chalk">Refer</a>
+  ```npm install chalk```    <a href="https://www.npmjs.com/package/chalk">Refer</a>
   4) module - then in this directory run
-  ```npm link```             <a herf = "https://www.npmjs.com/package/link">Refer</a>
+  ```npm install -g link```             <a href="https://www.npmjs.com/package/link">Refer</a>
 ## Video 
                 
 <a href = "https://screenrec.com/share/aA1sShemWq">Click here to see demo</a>
+
+## Installation 
+In terminal write 
+git clone 
 
 ### Project Explaination - 
 1. <p>Visit the news website as per the category input given by the user(Eg: Politics, Entertainment,etc.)</p>
