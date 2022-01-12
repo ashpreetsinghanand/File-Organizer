@@ -17,7 +17,7 @@ Visualize all the directories and files inside them in a tree structure.
    <img src = "Project/s1.png" width = 700 height = 500><br><br>### Project Explaination - 
 
     <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="Project/file organizer.mp4" type="video/mp4">
   
   Your browser does not support the video tag.
 </video>
