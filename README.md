@@ -1,6 +1,5 @@
 # 📁File Organizer
 
-# File-Organizer
 This is file organizer made through node js.
 There are some commands that you need to use for this project.
 
