@@ -36,25 +36,32 @@ git clone https://github.com/ashpreetsinghanand/File-Organizer.git
 2. peppy organize "folder path"
 3. peppy help
 ## Project Explaination - 
-1. Open your messy folder which you want to organize in case you did not have one you can open your downloads folder
+### 1. Open your messy folder which you want to organize in case you did not have one you can open your downloads folder
 
   
   
    <img src = "Project/s1.png" width = 600 height = 400><br><br>
-2. i)Open your window powershell/terminal at this folder and write command -> peppy help<br>To view all commands
- <br>ii)After typing command if you want to see tree structure of folder just type command -> peppy tree
+### 2. i)Open your window powershell/terminal at this folder and write command -> peppy help<br>To view all commands
+### 2. ii)After typing command if you want to see tree structure of folder just type command -> peppy tree
  <br> Tree strucutre of folder will get displayed in powershell/terminal.
-    <img src = "Project/s2.png" width = 600 height = 400><br>iii)Write command ->peppy organize "folder path"<br>To see the magic😍
+    <img src = "Project/s2.png" width = 600 height = 400><br>
+### 2. iii)Write command ->peppy organize "folder path"<br>To see the magic😍
  
-3.  You can see insead of your files there is a folder with name "organized_files" has been present
+### 3.  You can see insead of your files there is a folder with name "organized_files" has been present
+<br>
     <img src ="Project/ss4.png" width =600 height =400>
-4. Insdie folder "organized_files" there are sub-folders present with name "apps" , "archieves" , "documents" and "others"
+    <br>
+### 4. Insdie folder "organized_files" there are sub-folders present with name "apps" , "archieves" , "documents" and "others"
+<br>
     <img src ="Project/ss5.png" width =600 height =400>
-5. Now inside all sub-folders you can see their designated files 
-   
+    <br>
+### 5. Now inside all sub-folders you can see their designated files 
+   <br>
    <img src ="Project/s6.png" width =600 height =400>
-   <br>Here is pic of archieves folder
-6. At last type peppy tree command again to beautiful organized tree structure of folder
+   <br>Here is pic of archieves folder<br>
+   <br>
+### 6. At last type peppy tree command again to beautiful organized tree structure of folder
+<br>
    <img src ="Project/ss3.png" width =600 height =400>
-
+<br>
     
