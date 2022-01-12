@@ -20,7 +20,7 @@ This command will show all the list of commands that has been implemented.
    <p>Input : node app.js Politics</p>
    <p>(If you don't mention the category it will combination news....)</p><br>
   
-   <img src = "Project/s1.png" width = 700 height = 200><br><br>### Project Explaination - 
+   <img src = "Project/s1.png" width = 400 height = 400><br><br>### Project Explaination - 
 
     <video width="320" height="240" controls>
   <source src="Project/file organizer.mp4" type="video/mp4">
