@@ -28,7 +28,7 @@ This command will show all the list of commands that has been implemented.
 
 ## Installation 
 In terminal write 
-git clone 
+git clone https://github.com/ashpreetsinghanand/File-Organizer.git
 
 ### Project Explaination - 
 1. <p>Visit the news website as per the category input given by the user(Eg: Politics, Entertainment,etc.)</p>
