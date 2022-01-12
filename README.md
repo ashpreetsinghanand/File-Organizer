@@ -1,9 +1,11 @@
 # 📁File Organizer
 
 This is file organizer made through node js.
+You can access these commands from any where of your devices
+
 There are some commands that you need to use for this project.
 
-Just simply type node main.js command(tree, organise, help)
+Just simply type peppy command(tree, organise, help)
 
 ## 1. tree
 This command will display your folder and file as tree structure.
@@ -30,7 +32,7 @@ This command will show all the list of commands that has been implemented.
 In terminal write 
 git clone https://github.com/ashpreetsinghanand/File-Organizer.git
 
-### Project Explaination - 
+## Project Explaination - 
 1. <p>Visit the news website as per the category input given by the user(Eg: Politics, Entertainment,etc.)</p>
    <p>Input : node app.js Politics</p>
    <p>(If you don't mention the category it will combination news....)</p><br>
