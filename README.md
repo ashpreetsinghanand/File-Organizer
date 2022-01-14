@@ -29,8 +29,8 @@ This command will show all the list of commands that has been implemented.
 <a href = "https://screenrec.com/share/aA1sShemWq">Click here to see demo</a>
 
 ## Installation 
-In terminal write 
-git clone https://github.com/ashpreetsinghanand/File-Organizer.git
+In terminal write <b>
+git clone https://github.com/ashpreetsinghanand/File-Organizer.git </b>
 ## Commands
 1. peppy tree
 2. peppy organize "folder path"
